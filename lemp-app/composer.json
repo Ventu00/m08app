@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "^8.2.4",
+        "laravel/laravel": "^8.0"
+
+    }
+}
